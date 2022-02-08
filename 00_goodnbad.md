@@ -23,3 +23,4 @@ In addition to the ethics portion, I also teach them some basic computing skills
 
 ### Why do you think it went so well? ###
 This worked really well because it showed them how powerful a computer can be. For my demographic of students, they are repeatedly told that computers are powerful but their use-case scenarios revolves around casual use. This exercise shows how you can add numbers in multiple ways but some ways are quicker and easier than other ways. One other reason is that my examples were scaffolded in a way which many students were able to latch onto and complete the assignment. 
+
